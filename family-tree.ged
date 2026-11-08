@@ -1,0 +1,1667 @@
+0 HEAD
+1 SOUR famtree
+2 NAME famtree.com
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 DATE 08 NOV 2026
+0 @I1@ INDI
+1 NAME William /Galligan/
+1 SEX M
+1 BIRT
+2 DATE ABT 1820
+2 PLAC Cotra (Cuttragh), Lavey, Co. Cavan
+1 NOTE Birth year is an estimate, worked back from the children's ages (James b. c.1849–1860), not from a record
+1 NOTE Farmer; named as father on James Galligan's 1882 marriage record, where James's address is given as 'Cotra' — Cuttragh
+1 NOTE Griffith's Valuation (c.1856) lists William Galligan as the occupier at Cuttragh — the earliest record of the family on the land, a decade after the Famine
+1 SOUR
+2 TITL Civil marriage, James Galligan and Rose Rudden, Larah chapel, 6 Feb 1882 (Cootehill district, entry 14)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-2196589
+1 SOUR
+2 TITL Griffith's Valuation, parish of Lavey, Co. Cavan (c.1856): William Galligan, occupier at Cuttragh; other Galligans at Grellagh, Lisaderg and Moher
+2 NOTE https://www.askaboutireland.ie/griffith-valuation/index.xml?action=doNameSearch&familyname=Galligan&countyname=Cavan&parishname=Lavey
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Mathew /Rudden/
+1 SEX M
+1 BIRT
+2 DATE ABT 1815
+2 PLAC Corfeehone, Drung, Co. Cavan
+1 NOTE Birth year is an estimate, worked back from the children's ages (Rose b. c.1846), not from a record
+1 NOTE Farmer; named as father on Rose Rudden's 1882 marriage record; her address 'Corfeehone', in Drung parish north-east of Cavan town
+1 NOTE A John Rudden (b. c.1851) still farmed at Corfeehone in 1901 — probably Rose's brother
+1 NOTE In Griffith's Valuation (c.1856) the Ruddens of Drung parish held land at Drumcor, the next townland; none is listed at Corfeehone, so Mathew may have been a labourer or sub-tenant there
+1 SOUR
+2 TITL Civil marriage, James Galligan and Rose Rudden, Larah chapel, 6 Feb 1882 (Cootehill district, entry 14)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-2196589
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 SOUR
+2 TITL Griffith's Valuation, parish of Drung, Co. Cavan (c.1856): Patrick and James Rudden at Drumcor — no Rudden occupier at Corfeehone
+2 NOTE https://www.askaboutireland.ie/griffith-valuation/index.xml?action=doNameSearch&familyname=Rudden&countyname=Cavan&parishname=Drung
+1 FAMS @F2@
+0 @I3@ INDI
+1 NAME James /Galligan/
+1 SEX M
+1 BIRT
+2 DATE ABT 1849
+2 PLAC Cuttragh, Lavey, Co. Cavan
+1 DEAT
+2 DATE 25 AUG 1928
+1 NOTE Son of William Galligan of Cuttragh
+1 NOTE Married Rose Rudden of Corfeehone at Larah chapel, 6 Feb 1882, 'full age', farmer; witnesses John McKiernan and Mary Reilly
+1 NOTE Registered son James's birth himself in 1886, signing with his mark
+1 NOTE Census: aged 51 in 1901, 62 in 1911 (the 1928 death record says 68 — ages drift)
+1 NOTE Died 25 Aug 1928 at Cuttragh, widower, farmer, 'probably senile bronchitis'; informant his daughter Margaret O'Kane of Cloves
+1 NOTE Commemorated on the Lavey headstone of his grandson Jim Galligan of Cornagall
+1 SOUR
+2 TITL Civil marriage, James Galligan and Rose Rudden, Larah chapel, 6 Feb 1882 (Cootehill district, entry 14)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-2196589
+1 SOUR
+2 TITL Civil birth, James Galligan, 27 Feb 1886, Cuttragh (Stradone district, entry 216)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-11052372
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 SOUR
+2 TITL Census of Ireland 1911 — same townlands
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 SOUR
+2 TITL Civil death, James Galligan, 25 Aug 1928, Cuttragh, aged 68 (Stradone district, entry 306)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cide-1566703
+1 SOUR
+2 TITL St Dympna's graveyard, Lavey — headstone transcriptions, Ireland Genealogy Projects Archives (Galligan of Cuttragh, photo 83; Galligan grandparents James and Rose née Rudden, photo 84)
+2 NOTE https://www.igp-web.com/IGPArchives/ire/cavan/photos/tombstones/1st-dympna/st-dympna1.html
+1 FAMC @F1@
+1 FAMS @F3@
+0 @I4@ INDI
+1 NAME Rose /Rudden/
+1 SEX F
+1 BIRT
+2 DATE ABT 1846
+2 PLAC Corfeehone, Drung; then Cuttragh
+1 DEAT
+2 DATE 28 NOV 1918
+1 NOTE Daughter of Mathew Rudden, farmer, of Corfeehone
+1 NOTE Married James Galligan at Larah, 6 Feb 1882
+1 NOTE Census 1911: aged 69, married 29 years, two children born, two living
+1 NOTE Died 28 Nov 1918 at Cuttragh, aged 72, 'influenza, paralysis' — in the great flu pandemic; informant her son-in-law Bernard Kane of Cloves
+1 SOUR
+2 TITL Civil marriage, James Galligan and Rose Rudden, Larah chapel, 6 Feb 1882 (Cootehill district, entry 14)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-2196589
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 SOUR
+2 TITL Census of Ireland 1911 — same townlands
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 SOUR
+2 TITL Civil death, Rose Galligan, 28 Nov 1918, Cuttragh, aged 72 (Stradone district, entry 317)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cide-5660567
+1 FAMC @F2@
+1 FAMS @F3@
+0 @I5@ INDI
+1 NAME MargaretKane //
+1 SEX F
+1 BIRT
+2 DATE ABT 1883
+2 PLAC Cuttragh, then Cloves, Co. Cavan
+1 NOTE Aged 18 at Cuttragh in 1901
+1 NOTE Married Bernard Kane of Cloves (before 1918); informant at both her parents' deaths
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 SOUR
+2 TITL Civil death, Rose Galligan, 28 Nov 1918, Cuttragh, aged 72 (Stradone district, entry 317)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cide-5660567
+1 SOUR
+2 TITL Civil death, James Galligan, 25 Aug 1928, Cuttragh, aged 68 (Stradone district, entry 306)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cide-1566703
+1 FAMC @F3@
+0 @I6@ INDI
+1 NAME John /Smith/
+1 SEX M
+1 BIRT
+2 DATE ABT 1850
+2 PLAC Carrickmore, Co. Cavan
+1 DEAT
+2 DATE 1916
+1 NOTE Birth year is an estimate, worked back from the children's ages (Mary b. c.1881), not from a record
+1 NOTE Farmer; named as father (deceased) on Mary Smith's 1916 marriage record
+1 SOUR
+2 TITL Civil marriage, James Galligan and Mary Smith, Ballyhaise chapel, 28 Feb 1916 (Cavan district, entry 226)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-1720439
+1 FAMS @F4@
+0 @I7@ INDI
+1 NAME James /Galligan/
+1 SEX M
+1 BIRT
+2 DATE 27 FEB 1886
+2 PLAC Cuttragh, Lavey, Co. Cavan
+1 DEAT
+2 DATE 6 FEB 1963
+1 NOTE Born 27 Feb 1886 at Cuttragh; father James Galligan, farmer; mother Rose formerly Rudden (Stradone district, entry 216)
+1 NOTE Aged 15 in 1901, 25 and single in 1911
+1 NOTE Married Mary Smith at Ballyhaise chapel, 28 Feb 1916, aged 29; witnesses Michael Higgins and Lizzie Smith
+1 NOTE Registered Tom's birth himself in August 1923
+1 NOTE Died 6 Feb 1963 at Cuttragh, aged 77, farmer — myocardial disease and Parkinson's; informant his grandson Sean Munroy
+1 NOTE Lavey headstone: James Galligan, Cuttragh, d. 6 Feb 1963; wife Mary d. 7 Sep 1975; son John d. 15 Apr 2003
+1 SOUR
+2 TITL Civil birth, James Galligan, 27 Feb 1886, Cuttragh (Stradone district, entry 216)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-11052372
+1 SOUR
+2 TITL Civil marriage, James Galligan and Mary Smith, Ballyhaise chapel, 28 Feb 1916 (Cavan district, entry 226)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-1720439
+1 SOUR
+2 TITL Civil birth, Thomas Galligan, 1 Jun 1923, Cuttragh (Stradone district, entry 413)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-2051659
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 SOUR
+2 TITL Census of Ireland 1911 — same townlands
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 SOUR
+2 TITL Civil death, James Galligan, 6 Feb 1963, Cuttragh, aged 77 (Stradone district, entry 39)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cide-2897032
+1 SOUR
+2 TITL St Dympna's graveyard, Lavey — headstone transcriptions, Ireland Genealogy Projects Archives (Galligan of Cuttragh, photo 83; Galligan grandparents James and Rose née Rudden, photo 84)
+2 NOTE https://www.igp-web.com/IGPArchives/ire/cavan/photos/tombstones/1st-dympna/st-dympna1.html
+1 FAMC @F3@
+1 FAMS @F5@
+0 @I8@ INDI
+1 NAME Mary /Smith/
+1 SEX F
+1 BIRT
+2 DATE ABT 1881
+2 PLAC Carrickmore, Ballyhaise; then Cuttragh
+1 DEAT
+2 DATE 7 SEP 1975
+1 NOTE Daughter of John Smith, farmer, of Carrickmore (Ballyhaise DED — the Carrickmore north of Cavan town, not the others)
+1 NOTE Married James Galligan in 1916, 'full age'
+1 NOTE Mother of James (1916), Rose (1918), James (1920), Tom (1923) and at least one more son, John (c.1917, d. 2003)
+1 NOTE Died 7 Sep 1975 at Cuttragh, aged 94, farmer's widow — congestive cardiac failure; informant her granddaughter Mrs Mary Kearns, Aughadreena
+1 SOUR
+2 TITL Civil marriage, James Galligan and Mary Smith, Ballyhaise chapel, 28 Feb 1916 (Cavan district, entry 226)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-1720439
+1 SOUR
+2 TITL Civil birth, Thomas Galligan, 1 Jun 1923, Cuttragh (Stradone district, entry 413)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-2051659
+1 SOUR
+2 TITL Civil death, Mary Galligan, 7 Sep 1975, Cuttragh, aged 94 (Stradone district, entry 243)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cide-323591
+1 SOUR
+2 TITL St Dympna's graveyard, Lavey — headstone transcriptions, Ireland Genealogy Projects Archives (Galligan of Cuttragh, photo 83; Galligan grandparents James and Rose née Rudden, photo 84)
+2 NOTE https://www.igp-web.com/IGPArchives/ire/cavan/photos/tombstones/1st-dympna/st-dympna1.html
+1 FAMC @F4@
+1 FAMS @F5@
+0 @I9@ INDI
+1 NAME Michael /Brady/
+1 SEX M
+1 BIRT
+2 DATE ABT 1890
+2 PLAC Drumbar, Cavan
+1 NOTE Birth year is an estimate, worked back from the children's ages (Gretta b. c.1920s), not from a record
+1 NOTE Farmer of Drumbar, Cavan; named as Margaret (Gretta) Brady's father on her 1949 marriage record
+1 NOTE Re-reading the 1949 register: Drumbar, Cavan is Gretta's address as a domestic servant at the time of her marriage — her place of work, not necessarily her home. Michael's own townland is not given, so he could be anywhere in Cavan district
+1 NOTE Gretta is not in the 1926 census under Margaret or Gretta Brady, so she was born after April 1926; her birth record will not be public until the 2030s
+1 NOTE Of the Michael Bradys who married in Cavan district 1920–35, the nearest in place is Michael Brady of Drumcor (Drung), who married Rose Anne Fitzpatrick, a national-school teacher of Ballinagh, at Drumcor on 17 August 1927 — his father Bern
+1 SOUR
+2 TITL Civil marriage, Thomas Galligan and Margaret Brady, Cathedral of SS Patrick and Felim, Cavan, 21 Feb 1949 (Cavan district, entry 110)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-1077980
+1 SOUR
+2 TITL Census 1901, 1911 and 1926, Drumbar, Crossdoney DED, Co. Cavan: James Brady (60, farmer) and Alice (35) with daughters in 1901; Alice a widow with Rose, Maggie and Maria in 1911; Alice, 65, widow, alone in 1926
+2 NOTE https://www.census.nationalarchives.ie/pages/1911/Cavan/Crossdoney/Drumbar/
+1 FAMS @F6@
+0 @I10@ INDI
+1 NAME James /Galligan/
+1 SEX M
+1 BIRT
+2 DATE 19 DEC 1916
+2 PLAC Cuttragh, Lavey
+1 DEAT
+2 DATE 1920
+1 NOTE Born 19 Dec 1916 at Cuttragh, first child of James and Mary; father informant
+1 NOTE A second James was born to the same parents in April 1920, which in Irish families almost always means the first had died
+1 SOUR
+2 TITL Civil birth, James Galligan, 19 Dec 1916, Cuttragh (Stradone district)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-1645387
+1 FAMC @F5@
+0 @I11@ INDI
+1 NAME Rose /Galligan/
+1 SEX F
+1 BIRT
+2 DATE 15 JAN 1918
+2 PLAC Cuttragh, Lavey
+1 NOTE Born 15 Jan 1918 at Cuttragh; father James Galligan, farmer, informant
+1 SOUR
+2 TITL Civil birth, Rose Galligan, 15 Jan 1918, Cuttragh (Stradone district, entry 457)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-1501995
+1 FAMC @F5@
+0 @I12@ INDI
+1 NAME James /Galligan/
+1 SEX M
+1 BIRT
+2 DATE 29 APR 1920
+2 PLAC Cuttragh, Lavey
+1 NOTE Born 29 Apr 1920 at 'Cuttra'; father James Galligan, farmer, informant
+1 SOUR
+2 TITL Civil birth, James Galligan, 29 Apr 1920, Cuttra (Stradone district, entry 159)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-1794830
+1 FAMC @F5@
+0 @I13@ INDI
+1 NAME John /Galligan/
+1 SEX M
+1 BIRT
+2 DATE ABT 1917
+2 PLAC Cuttragh, Lavey
+1 DEAT
+2 DATE 15 APR 2003
+1 NOTE Named on the Lavey headstone as son of James and Mary, died 15 Apr 2003 aged 86
+1 NOTE No civil birth found under Galligan/Smith for 1917 in Cavan district — possibly registered late or under a variant
+1 SOUR
+2 TITL St Dympna's graveyard, Lavey — headstone transcriptions, Ireland Genealogy Projects Archives (Galligan of Cuttragh, photo 83; Galligan grandparents James and Rose née Rudden, photo 84)
+2 NOTE https://www.igp-web.com/IGPArchives/ire/cavan/photos/tombstones/1st-dympna/st-dympna1.html
+1 FAMC @F5@
+0 @I14@ INDI
+1 NAME Tom /Galligan/
+1 SEX M
+1 BIRT
+2 DATE 1 JUN 1923
+2 PLAC Cuttragh, Lavey; later Gortnakillew, Poles; Pullamore, Cavan
+1 DEAT
+2 DATE 24 MAR 2013
+1 NOTE Born 1 June 1923 at Cuttragh; father James Galligan, farmer; mother Mary formerly Smith (Stradone district, entry 413)
+1 NOTE Brothers James (1916), John (c.1917) and James (1920); sister Rose (1918)
+1 NOTE Married Margaret Brady at the Cathedral of SS Patrick and Felim, Cavan, 21 Feb 1949 — a farmer of Cuttragh; witnesses James Galligan and Frances McKeon
+1 NOTE Died 24 March 2013 at Cavan General Hospital, 'formerly of Gortnakillew, Poles'; buried St Brigid's, Killygarry
+1 NOTE Father of Jim, John and Rose McManus
+1 SOUR
+2 TITL Civil birth, Thomas Galligan, 1 Jun 1923, Cuttragh (Stradone district, entry 413)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-2051659
+1 SOUR
+2 TITL Civil marriage, Thomas Galligan and Margaret Brady, Cathedral of SS Patrick and Felim, Cavan, 21 Feb 1949 (Cavan district, entry 110)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-1077980
+1 SOUR
+2 TITL Death notice, Tom Galligan, Pullamore, Cavan, 24 Mar 2013 — rip.ie
+2 NOTE https://rip.ie/death-notice/tom-galligan-cavan-cavan-town-181422
+1 SOUR
+2 TITL Death notice, Margaret (Gretta) Galligan née Brady, Pullamore, Cavan, 16 Jan 2010 — rip.ie (acknowledgement also on Legacy.com)
+2 NOTE https://rip.ie/death-notice/margaret-galligan-cavan-cavan-town-91927
+1 FAMC @F5@
+1 FAMS @F17@
+0 @I15@ INDI
+1 NAME Gretta /Brady/
+1 SEX F
+1 BIRT
+2 DATE ABT 1920
+2 PLAC Drumbar, Cavan; later Pullamore
+1 DEAT
+2 DATE 16 JAN 2010
+1 NOTE Daughter of Michael Brady, farmer, of Drumbar, Cavan — per her 1949 marriage record
+1 NOTE Married Tom Galligan, 21 Feb 1949, Cavan Cathedral; 'full age', spinster, domestic
+1 NOTE Died 16 January 2010 at home, Pullamore; notice names her Margaret (Gretta) Galligan née Brady; buried Killygarry
+1 NOTE Survived by husband Tom, sons Jim and John, daughter Rose
+1 SOUR
+2 TITL Civil marriage, Thomas Galligan and Margaret Brady, Cathedral of SS Patrick and Felim, Cavan, 21 Feb 1949 (Cavan district, entry 110)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-1077980
+1 SOUR
+2 TITL Death notice, Margaret (Gretta) Galligan née Brady, Pullamore, Cavan, 16 Jan 2010 — rip.ie (acknowledgement also on Legacy.com)
+2 NOTE https://rip.ie/death-notice/margaret-galligan-cavan-cavan-town-91927
+1 SOUR
+2 TITL Death notice, Tom Galligan, Pullamore, Cavan, 24 Mar 2013 — rip.ie
+2 NOTE https://rip.ie/death-notice/tom-galligan-cavan-cavan-town-181422
+1 FAMC @F6@
+1 FAMS @F17@
+0 @I16@ INDI
+1 NAME Catherine /Reilly/
+1 SEX F
+1 BIRT
+2 DATE ABT 1845
+2 PLAC Hammondstown or Tonaghmore, Fore, Co. Westmeath
+1 DEAT
+2 DATE 1901
+1 NOTE Named as mother, 'Catherine McCormac formerly Reilly', on James's 1876 birth record
+1 NOTE Census 1901: Catherine McCormack, 56, head of family, farmer, born Co. Westmeath, with son James, 25, at Hammondstown or Tonaghmore (house 3) — 'married', husband not present
+1 SOUR
+2 TITL Civil birth, James McCormac, 10 Mar 1876, Hilltown — father Terence McCormac, mother Catherine formerly Reilly (Oldcastle district, entry 239)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-9207369
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 FAMS @F9@
+0 @I17@ INDI
+1 NAME Terence /McCormack/
+1 SEX M
+1 BIRT
+2 DATE ABT 1841
+2 PLAC Corbally and Hammondstown, Fore, Co. Westmeath
+1 DEAT
+2 DATE 1901
+1 NOTE Registered son James's birth himself in March 1876 as 'Terence McCormac, farmer, Hilltown', signing with his mark
+1 NOTE The 1909 marriage record names James's father as 'Thos. McCormack' — a clerk's slip for Terence, since the father's own 1876 registration, the townland and the mother all match
+1 NOTE Census 1901: Terence McCormack, 60, married, at Corbally (house 5) with his sister Bridget, 40 — while his wife Catherine ran the Hammondstown farm. Corbally was the family's home place; James's son Andy farmed it until 1991
+1 NOTE Griffith's Valuation (c.1854, under Fore's old parish name St Feighin) has Michael, Anne and John McCormick holding land at Corbally — Terence, born c.1841, grew up among them and one of the men is almost certainly his father
+1 SOUR
+2 TITL Civil birth, James McCormac, 10 Mar 1876, Hilltown — father Terence McCormac, mother Catherine formerly Reilly (Oldcastle district, entry 239)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-9207369
+1 SOUR
+2 TITL Civil marriage, James McCormack and Brigid McCormack, Ballinacree chapel, 15 Feb 1909 (Oldcastle district, entry 31)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-1987391
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 SOUR
+2 TITL Griffith's Valuation, parish of St Feighin (Fore), Co. Westmeath (c.1854): Michael, Anne and John McCormick at Corbally; others at Ben and Gillardstown
+2 NOTE https://www.askaboutireland.ie/griffith-valuation/index.xml?action=doNameSearch&familyname=McCorm&countyname=Westmeath&parishname=St%20Feighin&wildcard=1
+1 FAMS @F9@
+0 @I18@ INDI
+1 NAME Andrew /McCormick/
+1 SEX M
+1 BIRT
+2 DATE ABT 1846
+2 PLAC Ballinacree, Killeagh, Co. Meath
+1 DEAT
+2 DATE 1911
+1 NOTE Farmer, Ballinacree
+1 NOTE Married Mary Gilsenan at Mount Nugent chapel, 27 Nov 1874, aged 28; father Michael McCormick, farmer
+1 NOTE Census: 60 in 1901 with wife Maria 46; 69 and widowed in 1911 with daughter Julia
+1 SOUR
+2 TITL Civil marriage, Andrew McCormick and Mary Gilsenan, Mount Nugent chapel, 27 Nov 1874 (Ballyjamesduff district, entry 22)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-2832744
+1 SOUR
+2 TITL Civil birth, Bridget McCormick, 1 May 1878, Ballinacree (Oldcastle district, entry 51)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cibi-10472155
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 SOUR
+2 TITL Census of Ireland 1911 — same townlands
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 FAMC @F7@
+1 FAMS @F10@
+0 @I19@ INDI
+1 NAME Mary /Gilsenan/
+1 SEX F
+1 BIRT
+2 DATE ABT 1851
+2 PLAC Co. Meath, then Ballinacree
+1 DEAT
+2 DATE 1901
+1 NOTE Daughter of Hugh Gilsenan, farmer
+1 NOTE Aged 23 at her 1874 marriage; 46 in the 1901 census as 'Maria'
+1 NOTE Family memory independently recalled that Bridget's mother was a Gilsenan
+1 SOUR
+2 TITL Civil marriage, Andrew McCormick and Mary Gilsenan, Mount Nugent chapel, 27 Nov 1874 (Ballyjamesduff district, entry 22)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-2832744
+1 SOUR
+2 TITL Civil birth, Bridget McCormick, 1 May 1878, Ballinacree (Oldcastle district, entry 51)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cibi-10472155
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 FAMC @F8@
+1 FAMS @F10@
+0 @I20@ INDI
+1 NAME Michael /McCormick/
+1 SEX M
+1 BIRT
+2 DATE ABT 1810
+2 PLAC Ballinacree, Co. Meath
+1 NOTE Birth year is an estimate, worked back from the children's ages (Andrew b. c.1846; in Griffith's Valuation 1854), not from a record
+1 NOTE Farmer; named as father on Andrew's 1874 marriage record
+1 NOTE The only McCormick occupier in Killeagh parish in Griffith's Valuation (c.1854), at Ballynacree — almost certainly the same man, holding the farm Andrew later farmed
+1 SOUR
+2 TITL Civil marriage, Andrew McCormick and Mary Gilsenan, Mount Nugent chapel, 27 Nov 1874 (Ballyjamesduff district, entry 22)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-2832744
+1 SOUR
+2 TITL Griffith's Primary Valuation of Tenements, c.1854–56 — Lavey parish, Co. Cavan (Brady, Soden); Killeagh parish, Co. Meath and Fore barony, Co. Westmeath (McCormick) — askaboutireland.ie
+2 NOTE https://www.askaboutireland.ie/griffith-valuation/index.xml?action=nameSearch
+1 FAMS @F7@
+0 @I21@ INDI
+1 NAME Hugh /Gilsenan/
+1 SEX M
+1 BIRT
+2 DATE ABT 1820
+2 PLAC Co. Meath
+1 NOTE Birth year is an estimate, worked back from the children's ages (Mary b. c.1851), not from a record
+1 NOTE Farmer; named as father on Mary's 1874 marriage record
+1 NOTE Anne Gilsenan, probably a daughter, witnessed it
+1 SOUR
+2 TITL Civil marriage, Andrew McCormick and Mary Gilsenan, Mount Nugent chapel, 27 Nov 1874 (Ballyjamesduff district, entry 22)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-2832744
+1 FAMS @F8@
+0 @I22@ INDI
+1 NAME James /McCormack/
+1 SEX M
+1 BIRT
+2 DATE ABT 1876
+2 PLAC Hammondstown or Tonaghmore, Fore, Co. Westmeath
+1 NOTE Born 10 March 1876 at Hilltown (the registrar's name for the Hammondstown district); father Terence, mother Catherine formerly Reilly (Oldcastle district, entry 239)
+1 NOTE Census 1901: aged 25, single, farmer's son, at home with his mother Catherine
+1 NOTE Married Brigid McCormack of Ballinacree at Ballinacree chapel, 15 Feb 1909, aged 32
+1 NOTE Census 1911: 35, married 2 years; 1926: 50, seven children at home
+1 NOTE Registered Jimmy's birth in January 1915
+1 SOUR
+2 TITL Civil birth, James McCormac, 10 Mar 1876, Hilltown — father Terence McCormac, mother Catherine formerly Reilly (Oldcastle district, entry 239)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-9207369
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 SOUR
+2 TITL Civil marriage, James McCormack and Brigid McCormack, Ballinacree chapel, 15 Feb 1909 (Oldcastle district, entry 31)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-1987391
+1 SOUR
+2 TITL Census of Ireland 1911 — same townlands
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 SOUR
+2 TITL Civil birth, James McCormick, 10 Dec 1914, Hilltown (Castlepollard district, entry 416)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-1412381
+1 SOUR
+2 TITL Census of Ireland 1926 — Gortnakillew; Hammondstown and Tonaghmore; Ballynacree
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 FAMC @F9@
+1 FAMS @F11@
+0 @I23@ INDI
+1 NAME Brigid /McCormack/
+1 SEX F
+1 BIRT
+2 DATE 1 MAY 1878
+2 PLAC Ballinacree, Co. Meath, then Fore
+1 NOTE Born 1 May 1878 at Ballinacree; father Andrew McCormick, mother Mary formerly Gilsenan
+1 NOTE Married James McCormack of Hilltown in 1909
+1 NOTE Children: Kathleen 1911, Joseph 1912, Andrew 1913, James c.1915, Patrick 1918, Michael 1920, Maria 1922
+1 SOUR
+2 TITL Civil birth, Bridget McCormick, 1 May 1878, Ballinacree (Oldcastle district, entry 51)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cibi-10472155
+1 SOUR
+2 TITL Civil marriage, James McCormack and Brigid McCormack, Ballinacree chapel, 15 Feb 1909 (Oldcastle district, entry 31)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-1987391
+1 SOUR
+2 TITL Census of Ireland 1911 — same townlands
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 SOUR
+2 TITL Census of Ireland 1926 — Gortnakillew; Hammondstown and Tonaghmore; Ballynacree
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 FAMC @F10@
+1 FAMS @F11@
+0 @I24@ INDI
+1 NAME Andy /McCormack/
+1 SEX M
+1 BIRT
+2 DATE 15 AUG 1913
+2 PLAC Hammondstown; later Corbally, Fore
+1 DEAT
+2 DATE 13 SEP 1991
+1 NOTE Born 15 Aug 1913 (Delvin district), the year before Jimmy
+1 NOTE Farmed at Corbally, the old McCormack home place
+1 NOTE Fore headstone: 'Andy McCormack, Corbally, died September 13 1991 aged 77; his wife Margaret died December 13 1975; her sister Bridget Merrinan died September 14 1971 aged 72'
+1 SOUR
+2 TITL St Feichin's New Cemetery, Fore — partial headstone transcriptions (Andy McCormack of Corbally; Gilsenan family stone)
+2 NOTE https://www.igp-web.com/IGPArchives/ire/westmeath/cemeteries/st-feichin-new.html
+1 FAMC @F11@
+0 @I25@ INDI
+1 NAME Fr Pat /McCormack/
+1 SEX M
+1 BIRT
+2 DATE 9 MAY 1917
+2 PLAC Hammondstown, Fore; later Baltimore, Maryland
+1 NOTE Born 9 May 1917 (Delvin district), son of James and Brigid
+1 NOTE A priest in Baltimore, Maryland, where he died — family account
+1 FAMC @F11@
+0 @I26@ INDI
+1 NAME James /McCormack/
+1 SEX M
+1 BIRT
+2 DATE 10 DEC 1914
+2 PLAC Hilltown, Fore, Co. Westmeath
+1 DEAT
+2 DATE ABT 1992
+1 NOTE Born 10 Dec 1914 at Hilltown; father James McCormick, farmer; mother Bridget formerly McCormick (Castlepollard district, entry 416); registered by his father 2 Jan 1915
+1 NOTE Aged 11 in the 1926 census at Hammondstown and Tonaghmore
+1 NOTE Siblings Kathleen (1911), Joseph (1912), Andrew (1913), Patrick (1918), Michael (1920), Maria (1922)
+1 NOTE Family memory that his mother was a Gilsenan's daughter matches the records exactly
+1 SOUR
+2 TITL Civil birth, James McCormick, 10 Dec 1914, Hilltown (Castlepollard district, entry 416)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-1412381
+1 SOUR
+2 TITL Census of Ireland 1926 — Gortnakillew; Hammondstown and Tonaghmore; Ballynacree
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 FAMC @F11@
+1 FAMS @F18@
+0 @I27@ INDI
+1 NAME Patrick /Gilsenan/
+1 SEX M
+1 BIRT
+2 DATE ABT 1835
+2 PLAC Coole, Co. Westmeath
+1 NOTE Birth year is an estimate, worked back from the children's ages (Michael b. c.1868), not from a record
+1 NOTE Farmer at Coole; named as father on Michael Gilsenan's 1905 marriage record
+1 NOTE Wife Margaret Moran — a daughter born to them at Coole on 29 March 1874 (registered unnamed, by Patrick's mark)
+1 NOTE Married before 1864 (no civil record 1864–75), so the marriage is in the Mayne parish register
+1 NOTE Griffith's Valuation (c.1854) has William Gilshinan (three holdings) and James Gilshinan at Coole — Patrick, born c.1835, is a son of one of them
+1 SOUR
+2 TITL Civil marriage, Michael Gilsenan and Mary Donnelly, Mayne chapel, 27 Jul 1905 (Granard district, Coole registrar, entry 51)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-2087096
+1 SOUR
+2 TITL Civil birth, unnamed daughter of Patrick Gilsenan, farmer, Coole, and Margaret formerly Moran, 29 Mar 1874 (Granard district, Coole registrar, entry 430)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cibi-8506058
+1 SOUR
+2 TITL Griffith's Valuation, parish of Mayne, Co. Westmeath (c.1854): William Gilshinan (three holdings) and James Gilshinan at Coole; Nicholas and Thomas at Simonstown
+2 NOTE https://www.askaboutireland.ie/griffith-valuation/index.xml?action=doNameSearch&familyname=Gils&countyname=Westmeath&wildcard=1
+1 FAMS @F14@
+0 @I28@ INDI
+1 NAME Margaret /Moran/
+1 SEX F
+1 BIRT
+2 DATE ABT 1840
+2 PLAC Coole, Co. Westmeath
+1 NOTE Birth year is an estimate from her children's ages, not from a record
+1 NOTE Wife of Patrick Gilsenan of Coole — named as mother, formerly Moran, on the 1874 birth of a daughter at Coole
+1 NOTE Richard Moran, witness at her son Michael's 1905 wedding, was probably her kin
+1 SOUR
+2 TITL Civil birth, unnamed daughter of Patrick Gilsenan, farmer, Coole, and Margaret formerly Moran, 29 Mar 1874 (Granard district, Coole registrar, entry 430)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cibi-8506058
+1 SOUR
+2 TITL Civil marriage, Michael Gilsenan and Mary Donnelly, Mayne chapel, 27 Jul 1905 (Granard district, Coole registrar, entry 51)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-2087096
+1 FAMS @F14@
+0 @I29@ INDI
+1 NAME Patrick /Donnelly/
+1 SEX M
+1 BIRT
+2 DATE ABT 1835
+2 PLAC Mullagh, Coole, Co. Westmeath
+1 DEAT
+2 DATE 1901
+1 NOTE Married Elizabeth Early at the RC chapel of Street, 13 January 1870 — aged 35, bachelor, farmer of Mullagh; father Francis Donnelly, farmer; witnesses John Ward and Mary Daly
+1 NOTE Farmer; named as father on Mary Donnelly's 1905 marriage record
+1 NOTE Census 1901: Patrick Donnelly, 72, widower, head, at Mullagh (house 6) with son Francis 29, daughters Mary 27 and Lizzie 23
+1 NOTE Gone by 1911, when Francis (married 5 years) heads the house
+1 SOUR
+2 TITL Civil marriage, Patrick Donnelly (35, farmer, Mullagh; father Francis Donnelly, farmer) and Elizabeth Early (25; father Michael Early, farmer), RC chapel of Street, 13 Jan 1870 (Granard district, Coolamber registrar)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-2720743
+1 SOUR
+2 TITL Civil marriage, Michael Gilsenan and Mary Donnelly, Mayne chapel, 27 Jul 1905 (Granard district, Coole registrar, entry 51)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-2087096
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 FAMC @F12@
+1 FAMS @F15@
+0 @I30@ INDI
+1 NAME Elizabeth /Early/
+1 SEX F
+1 BIRT
+2 DATE ABT 1845
+2 PLAC Street area, Co. Westmeath; then Mullagh
+1 DEAT
+2 DATE 1901
+1 NOTE Aged 25, spinster, farmer's daughter, when she married Patrick Donnelly at Street chapel on 13 January 1870; father Michael Early, farmer
+1 NOTE Mother of Mary Donnelly (b. 1 Oct 1873) and at least Francis and Lizzie
+1 NOTE Dead by 1901, when Patrick is a widower
+1 SOUR
+2 TITL Civil marriage, Patrick Donnelly (35, farmer, Mullagh; father Francis Donnelly, farmer) and Elizabeth Early (25; father Michael Early, farmer), RC chapel of Street, 13 Jan 1870 (Granard district, Coolamber registrar)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-2720743
+1 SOUR
+2 TITL Civil birth, Mary Donnelly, 1 Oct 1873, Mullagh — father Patrick Donnelly, farmer; mother Eliza formerly Early (Granard district, Coole registrar, entry 412)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cibi-10700791
+1 FAMC @F13@
+1 FAMS @F15@
+0 @I31@ INDI
+1 NAME Francis /Donnelly/
+1 SEX M
+1 BIRT
+2 DATE ABT 1805
+2 PLAC Mullagh, Coole, Co. Westmeath
+1 NOTE Birth year is an estimate, not from a record
+1 NOTE Farmer; named as Patrick Donnelly's father on the 1870 marriage record
+1 SOUR
+2 TITL Civil marriage, Patrick Donnelly (35, farmer, Mullagh; father Francis Donnelly, farmer) and Elizabeth Early (25; father Michael Early, farmer), RC chapel of Street, 13 Jan 1870 (Granard district, Coolamber registrar)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-2720743
+1 FAMS @F12@
+0 @I32@ INDI
+1 NAME Michael /Early/
+1 SEX M
+1 BIRT
+2 DATE ABT 1815
+2 PLAC near Street, Co. Westmeath
+1 NOTE Birth year is an estimate, not from a record
+1 NOTE Farmer; named as Elizabeth Early's father on the 1870 marriage record
+1 SOUR
+2 TITL Civil marriage, Patrick Donnelly (35, farmer, Mullagh; father Francis Donnelly, farmer) and Elizabeth Early (25; father Michael Early, farmer), RC chapel of Street, 13 Jan 1870 (Granard district, Coolamber registrar)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-2720743
+1 FAMS @F13@
+0 @I33@ INDI
+1 NAME Michael /Gilsenan/
+1 SEX M
+1 BIRT
+2 DATE ABT 1868
+2 PLAC Coole, Co. Westmeath
+1 NOTE Son of Patrick Gilsenan of Coole
+1 NOTE Married Mary Donnelly of Mullagh at Mayne chapel, 27 July 1905; witnesses Richard Moran and Ellen Ward; priest J. Gilsenan P.P.
+1 NOTE Census 1911: Michael, 43, farmer, at Coole (house 21) with wife Mary 38 (married 5 years, 3 children), brother John 41, children Margaret 3, Elizabeth 2, Patrick
+1 NOTE Registered Bridget's birth himself in September 1912, by his mark
+1 SOUR
+2 TITL Civil marriage, Michael Gilsenan and Mary Donnelly, Mayne chapel, 27 Jul 1905 (Granard district, Coole registrar, entry 51)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-2087096
+1 SOUR
+2 TITL Census of Ireland 1911 — same townlands
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 SOUR
+2 TITL Civil birth, Bridget Gilsenan, 11 Jul 1912, Coole (Granard district, entry 48)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-1002832
+1 FAMC @F14@
+1 FAMS @F16@
+0 @I34@ INDI
+1 NAME Mary /Donnelly/
+1 SEX F
+1 BIRT
+2 DATE 1 OCT 1873
+2 PLAC Mullagh; then Coole, Co. Westmeath
+1 NOTE Born 1 October 1873 at Mullagh; father Patrick Donnelly, farmer; mother Eliza formerly Early — registered by her father on 8 October
+1 NOTE Daughter of Patrick Donnelly, farmer, of Mullagh; aged 27 at home in 1901
+1 NOTE Married Michael Gilsenan in 1905; mother of Margaret (1907), Elizabeth (1909), Patrick (1911), Bridget (1912), Michael (1914) and Annie (1917) — all registered in Granard district with mother Donnelly
+1 SOUR
+2 TITL Civil birth, Mary Donnelly, 1 Oct 1873, Mullagh — father Patrick Donnelly, farmer; mother Eliza formerly Early (Granard district, Coole registrar, entry 412)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cibi-10700791
+1 SOUR
+2 TITL Civil marriage, Michael Gilsenan and Mary Donnelly, Mayne chapel, 27 Jul 1905 (Granard district, Coole registrar, entry 51)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-2087096
+1 SOUR
+2 TITL Census of Ireland 1901 — Cuttragh and Corfeehone (Cavan); Carrickmore, Ballyhaise; Ballynacree (Meath); Hammondstown or Tonaghmore, Hiltown DED (Westmeath)
+2 NOTE https://nationalarchives.ie/collections/search-the-census/
+1 SOUR
+2 TITL Census of Ireland 1911 — same townlands
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 SOUR
+2 TITL Civil birth, Bridget Gilsenan, 11 Jul 1912, Coole (Granard district, entry 48)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-1002832
+1 FAMC @F15@
+1 FAMS @F16@
+0 @I35@ INDI
+1 NAME Bridget /Gilsenan/
+1 SEX F
+1 BIRT
+2 DATE 11 JUL 1912
+2 PLAC Coole; then Corbally, Fore, Co. Westmeath
+1 DEAT
+2 DATE 1981
+1 NOTE Born 11 July 1912 at Coole; father Michael Gilsenan, farmer; mother Mary formerly Donnelly (Granard district, Coole registrar, entry 48) — the birthday the family remembers
+1 NOTE Grew up at Coole; married Jimmy McCormack (after 1950) and moved to Corbally
+1 NOTE Siblings Margaret, Elizabeth, Patrick, Michael and Annie
+1 NOTE Died 1981; buried with Jimmy at Fore
+1 NOTE Family memory of a Plunkett connection to Loughcrew — not yet placed; possibly through her Gilsenan or Donnelly grandmothers
+1 SOUR
+2 TITL Civil birth, Bridget Gilsenan, 11 Jul 1912, Coole (Granard district, entry 48)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cibi-1002832
+1 SOUR
+2 TITL Civil marriage, Michael Gilsenan and Mary Donnelly, Mayne chapel, 27 Jul 1905 (Granard district, Coole registrar, entry 51)
+2 NOTE https://www.irishgenealogy.ie/view/?record_id=cima-2087096
+1 SOUR
+2 TITL Census of Ireland 1911 — same townlands
+2 NOTE https://downtheroad.dev/census/townland/gortnakillew
+1 FAMC @F16@
+1 FAMS @F18@
+0 @I36@ INDI
+1 NAME John /Galligan/
+1 SEX M
+1 BIRT
+2 DATE ABT 1953
+2 PLAC Co. Cavan; Kells, Co. Meath
+1 NOTE Living — details held by the family
+1 NOTE Son of Tom and Gretta; brother of Jim and Rose (McManus)
+1 NOTE Married Margaret McCormack
+1 SOUR
+2 TITL Death notice, Tom Galligan, Pullamore, Cavan, 24 Mar 2013 — rip.ie
+2 NOTE https://rip.ie/death-notice/tom-galligan-cavan-cavan-town-181422
+1 SOUR
+2 TITL Death notice, Margaret (Gretta) Galligan née Brady, Pullamore, Cavan, 16 Jan 2010 — rip.ie (acknowledgement also on Legacy.com)
+2 NOTE https://rip.ie/death-notice/margaret-galligan-cavan-cavan-town-91927
+1 FAMC @F17@
+1 FAMS @F27@
+0 @I37@ INDI
+1 NAME Margaret /McCormack/
+1 SEX F
+1 BIRT
+2 DATE ABT 1957
+2 PLAC Co. Westmeath; Kells, Co. Meath
+1 NOTE Living — details held by the family
+1 NOTE Daughter of Jimmy and Bridget; sister of Chris Brendan and Michael McCormack
+1 FAMC @F18@
+1 FAMS @F27@
+0 @I38@ INDI
+1 NAME Jim /Galligan/
+1 SEX M
+1 NOTE Living — details held by the family
+1 NOTE Named in both his parents' death notices
+1 NOTE Married Mary McCormack, sister of his brother John's wife Margaret
+1 NOTE Father of Aidan, Ronan and Orla
+1 SOUR
+2 TITL Death notice, Tom Galligan, Pullamore, Cavan, 24 Mar 2013 — rip.ie
+2 NOTE https://rip.ie/death-notice/tom-galligan-cavan-cavan-town-181422
+1 SOUR
+2 TITL Death notice, Margaret (Gretta) Galligan née Brady, Pullamore, Cavan, 16 Jan 2010 — rip.ie (acknowledgement also on Legacy.com)
+2 NOTE https://rip.ie/death-notice/margaret-galligan-cavan-cavan-town-91927
+1 FAMC @F17@
+1 FAMS @F19@
+0 @I39@ INDI
+1 NAME Mary /McCormack/
+1 SEX F
+1 NOTE Living — details held by the family
+1 NOTE Daughter of Jimmy McCormack and Bridget Gilsenan; sister of Margaret, Christopher and Michael
+1 NOTE Married Jim Galligan, brother of Margaret's husband John — two sisters married two brothers
+1 NOTE Mother of Aidan, Ronan and Orla, who are Shane, Cormac, Niamh and Rory's double first cousins
+1 FAMC @F18@
+1 FAMS @F19@
+0 @I40@ INDI
+1 NAME Aidan /Galligan/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F19@
+0 @I41@ INDI
+1 NAME Ronan /Galligan/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F19@
+0 @I42@ INDI
+1 NAME Leona /McManus/
+1 SEX F
+1 NOTE Living — details held by the family
+1 FAMC @F20@
+0 @I43@ INDI
+1 NAME Katie /Rice/
+1 SEX F
+1 NOTE Living — details held by the family
+1 NOTE Kelley's sister; married to John Rice
+1 FAMC @F21@
+1 FAMS @F22@
+0 @I44@ INDI
+1 NAME John /Rice/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMS @F22@
+0 @I45@ INDI
+1 NAME Cormac /Rice/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F22@
+0 @I46@ INDI
+1 NAME Ronan /Rice/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F22@
+0 @I47@ INDI
+1 NAME Molly /Mancinelli/
+1 SEX F
+1 NOTE Living — details held by the family
+1 NOTE Kelley's sister; married to Jimmy Mancinelli
+1 FAMC @F21@
+1 FAMS @F23@
+0 @I48@ INDI
+1 NAME Jimmy /Mancinelli/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMS @F23@
+0 @I49@ INDI
+1 NAME Jemison /Mancinelli/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F23@
+0 @I50@ INDI
+1 NAME Sullivan /Mancinelli/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F23@
+0 @I51@ INDI
+1 NAME Patrick /Shine/
+1 SEX M
+1 NOTE Living — details held by the family
+1 NOTE Kelley's brother; married to Nicole
+1 FAMC @F21@
+1 FAMS @F24@
+0 @I52@ INDI
+1 NAME Nicole /Shine/
+1 SEX F
+1 NOTE Living — details held by the family
+1 FAMS @F24@
+0 @I53@ INDI
+1 NAME Eleanor /Shine/
+1 SEX F
+1 NOTE Living — details held by the family
+1 FAMC @F24@
+0 @I54@ INDI
+1 NAME Orla /Galligan/
+1 SEX F
+1 NOTE Living — details held by the family
+1 FAMC @F19@
+0 @I55@ INDI
+1 NAME Rose /McManus/
+1 SEX F
+1 NOTE Living — details held by the family
+1 NOTE Named as Rose McManus in both her parents' death notices
+1 NOTE Married to Tony McManus; mother of Raymond
+1 SOUR
+2 TITL Death notice, Tom Galligan, Pullamore, Cavan, 24 Mar 2013 — rip.ie
+2 NOTE https://rip.ie/death-notice/tom-galligan-cavan-cavan-town-181422
+1 SOUR
+2 TITL Death notice, Margaret (Gretta) Galligan née Brady, Pullamore, Cavan, 16 Jan 2010 — rip.ie (acknowledgement also on Legacy.com)
+2 NOTE https://rip.ie/death-notice/margaret-galligan-cavan-cavan-town-91927
+1 FAMC @F17@
+1 FAMS @F20@
+0 @I56@ INDI
+1 NAME Tony /McManus/
+1 SEX M
+1 NOTE Living — details held by the family
+1 NOTE Married to Rose Galligan; father of Raymond
+1 FAMS @F20@
+0 @I57@ INDI
+1 NAME Raymond /McManus/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F20@
+0 @I58@ INDI
+1 NAME Christopher /McCormack/
+1 SEX M
+1 NOTE Living — details held by the family
+1 NOTE Margaret's brother
+1 NOTE Compiled a McCormack family tree of his own
+1 NOTE Married to Vera; father of Sarah, Stephen and Fiona
+1 FAMC @F18@
+1 FAMS @F25@
+0 @I59@ INDI
+1 NAME Vera /McCormack/
+1 SEX F
+1 NOTE Living — details held by the family
+1 NOTE Mother of Sarah, Stephen and Fiona
+1 FAMS @F25@
+0 @I60@ INDI
+1 NAME Sarah /Fassihi/
+1 SEX F
+1 NOTE Living — details held by the family
+1 NOTE Married name Fassihi
+1 FAMC @F25@
+1 FAMS @F43@
+0 @I61@ INDI
+1 NAME Matthew /Fassihi/
+1 SEX M
+1 NOTE Living — details held by the family
+1 NOTE Married to Sarah (née McCormack)
+1 FAMS @F43@
+0 @I62@ INDI
+1 NAME Stephen /McCormack/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F25@
+0 @I63@ INDI
+1 NAME Fiona /McCormack/
+1 SEX F
+1 NOTE Living — details held by the family
+1 FAMC @F25@
+0 @I64@ INDI
+1 NAME Michael /McCormack/
+1 SEX M
+1 NOTE Living — details held by the family
+1 NOTE Margaret's brother; father of Niall and Colin
+1 FAMC @F18@
+1 FAMS @F26@
+0 @I65@ INDI
+1 NAME Niall /McCormack/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F26@
+0 @I66@ INDI
+1 NAME Colin /McCormack/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F26@
+0 @I67@ INDI
+1 NAME Cormac /Galligan/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F27@
+0 @I68@ INDI
+1 NAME Niamh /Galligan/
+1 SEX F
+1 NOTE Living — details held by the family
+1 FAMC @F27@
+1 FAMS @F29@
+0 @I69@ INDI
+1 NAME Rory /Galligan/
+1 SEX M
+1 NOTE Living — details held by the family
+1 NOTE Married to Donna Ní Gheargáin
+1 FAMC @F27@
+1 FAMS @F28@
+0 @I70@ INDI
+1 NAME Donna Ní /Gheargáin/
+1 SEX F
+1 NOTE Living — details held by the family
+1 FAMS @F28@
+0 @I71@ INDI
+1 NAME Finn /Galligan/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F28@
+0 @I72@ INDI
+1 NAME Katie /Galligan/
+1 SEX F
+1 NOTE Living — details held by the family
+1 FAMC @F28@
+0 @I73@ INDI
+1 NAME Eloise /Galligan/
+1 SEX F
+1 NOTE Living — details held by the family
+1 FAMC @F28@
+0 @I74@ INDI
+1 NAME James /Fitzgerald/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMS @F29@
+0 @I75@ INDI
+1 NAME Liam /Fitzgerald/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F29@
+0 @I76@ INDI
+1 NAME Sean /Fitzgerald/
+1 SEX M
+1 NOTE Living — details held by the family
+1 FAMC @F29@
+0 @I77@ INDI
+1 NAME Shane /Galligan/
+1 SEX M
+1 BIRT
+2 DATE 3 AUG 1981
+2 PLAC Cavan Hospital; raised Kells, Co. Meath; Bend, Oregon
+1 NOTE Living — details held by the family
+1 NOTE Married Kelley Shine, 2018
+1 NOTE Siblings Cormac, Niamh and Rory
+1 FAMC @F27@
+1 FAMS @F42@
+0 @I78@ INDI
+1 NAME Kelley /Galligan/
+1 SEX F
+1 BIRT
+2 DATE 26 APR 1987
+2 PLAC Fresno, California; Bend, Oregon
+1 NOTE Living — details held by the family
+1 NOTE Born Kelley Shine in Fresno, California, 26 April 1987
+1 NOTE Married Shane in 2018; mother of Bridget and Laura
+1 NOTE Daughter of John Shine and Teresa; granddaughter of John (Seán) Shine of Newmarket, Co. Cork, and Laura Verling of Lakeview, Oregon
+1 FAMC @F21@
+1 FAMS @F42@
+0 @I79@ INDI
+1 NAME Humphrey /Shine/
+1 SEX M
+1 BIRT
+2 DATE ABT 1914
+2 PLAC Inchantotane, Newmarket, Co. Cork
+1 NOTE Listed in the family home at Inchantotane in the 1926 census
+1 NOTE Birth year worked back from the census age; the civil birth record will fix it
+1 SOUR
+2 TITL 1926 census, Inchatotane [sic], Clonfert East DED, Co. Cork — John S. Shine 57 (head), Hannah 34, Humphrey 12, Mollie 11, Patrick 10, Norah 9, William 8, Bridie 6 (birthplace given as Carlow), Sean 5, Thomas 4; James Shine 55, single. Ages 
+2 NOTE https://nationalarchives.ie/collections/search-the-1926-census/search-results/?surname=Shine&county=Cork&townland=Inchatotane
+1 FAMC @F30@
+0 @I80@ INDI
+1 NAME Mollie /Shine/
+1 SEX F
+1 BIRT
+2 DATE ABT 1915
+2 PLAC Inchantotane, Newmarket, Co. Cork
+1 NOTE Listed in the family home at Inchantotane in the 1926 census
+1 NOTE Birth year worked back from the census age; the civil birth record will fix it
+1 SOUR
+2 TITL 1926 census, Inchatotane [sic], Clonfert East DED, Co. Cork — John S. Shine 57 (head), Hannah 34, Humphrey 12, Mollie 11, Patrick 10, Norah 9, William 8, Bridie 6 (birthplace given as Carlow), Sean 5, Thomas 4; James Shine 55, single. Ages 
+2 NOTE https://nationalarchives.ie/collections/search-the-1926-census/search-results/?surname=Shine&county=Cork&townland=Inchatotane
+1 FAMC @F30@
+0 @I81@ INDI
+1 NAME Patrick /Shine/
+1 SEX M
+1 BIRT
+2 DATE ABT 1916
+2 PLAC Inchantotane, Newmarket, Co. Cork
+1 NOTE Listed in the family home at Inchantotane in the 1926 census
+1 NOTE Birth year worked back from the census age; the civil birth record will fix it
+1 SOUR
+2 TITL 1926 census, Inchatotane [sic], Clonfert East DED, Co. Cork — John S. Shine 57 (head), Hannah 34, Humphrey 12, Mollie 11, Patrick 10, Norah 9, William 8, Bridie 6 (birthplace given as Carlow), Sean 5, Thomas 4; James Shine 55, single. Ages 
+2 NOTE https://nationalarchives.ie/collections/search-the-1926-census/search-results/?surname=Shine&county=Cork&townland=Inchatotane
+1 FAMC @F30@
+0 @I82@ INDI
+1 NAME Norah /Shine/
+1 SEX F
+1 BIRT
+2 DATE ABT 1917
+2 PLAC Inchantotane, Newmarket, Co. Cork
+1 NOTE Listed in the family home at Inchantotane in the 1926 census
+1 NOTE Birth year worked back from the census age; the civil birth record will fix it
+1 SOUR
+2 TITL 1926 census, Inchatotane [sic], Clonfert East DED, Co. Cork — John S. Shine 57 (head), Hannah 34, Humphrey 12, Mollie 11, Patrick 10, Norah 9, William 8, Bridie 6 (birthplace given as Carlow), Sean 5, Thomas 4; James Shine 55, single. Ages 
+2 NOTE https://nationalarchives.ie/collections/search-the-1926-census/search-results/?surname=Shine&county=Cork&townland=Inchatotane
+1 FAMC @F30@
+0 @I83@ INDI
+1 NAME William /Shine/
+1 SEX M
+1 BIRT
+2 DATE ABT 1918
+2 PLAC Inchantotane, Newmarket, Co. Cork
+1 NOTE Listed in the family home at Inchantotane in the 1926 census
+1 NOTE Birth year worked back from the census age; the civil birth record will fix it
+1 SOUR
+2 TITL 1926 census, Inchatotane [sic], Clonfert East DED, Co. Cork — John S. Shine 57 (head), Hannah 34, Humphrey 12, Mollie 11, Patrick 10, Norah 9, William 8, Bridie 6 (birthplace given as Carlow), Sean 5, Thomas 4; James Shine 55, single. Ages 
+2 NOTE https://nationalarchives.ie/collections/search-the-1926-census/search-results/?surname=Shine&county=Cork&townland=Inchatotane
+1 FAMC @F30@
+0 @I84@ INDI
+1 NAME Bridie /Shine/
+1 SEX F
+1 BIRT
+2 DATE ABT 1920
+2 PLAC Inchantotane, Newmarket, Co. Cork
+1 NOTE Listed in the family home at Inchantotane in the 1926 census, birthplace given as Carlow
+1 NOTE Birth year worked back from the census age; the civil birth record will fix it
+1 SOUR
+2 TITL 1926 census, Inchatotane [sic], Clonfert East DED, Co. Cork — John S. Shine 57 (head), Hannah 34, Humphrey 12, Mollie 11, Patrick 10, Norah 9, William 8, Bridie 6 (birthplace given as Carlow), Sean 5, Thomas 4; James Shine 55, single. Ages 
+2 NOTE https://nationalarchives.ie/collections/search-the-1926-census/search-results/?surname=Shine&county=Cork&townland=Inchatotane
+1 FAMC @F30@
+0 @I85@ INDI
+1 NAME Thomas /Shine/
+1 SEX M
+1 BIRT
+2 DATE ABT 1922
+2 PLAC Inchantotane, Newmarket, Co. Cork
+1 NOTE Listed in the family home at Inchantotane in the 1926 census
+1 NOTE Birth year worked back from the census age; the civil birth record will fix it
+1 SOUR
+2 TITL 1926 census, Inchatotane [sic], Clonfert East DED, Co. Cork — John S. Shine 57 (head), Hannah 34, Humphrey 12, Mollie 11, Patrick 10, Norah 9, William 8, Bridie 6 (birthplace given as Carlow), Sean 5, Thomas 4; James Shine 55, single. Ages 
+2 NOTE https://nationalarchives.ie/collections/search-the-1926-census/search-results/?surname=Shine&county=Cork&townland=Inchatotane
+1 FAMC @F30@
+0 @I86@ INDI
+1 NAME John /Shine/
+1 SEX M
+1 BIRT
+2 DATE 12 JUN 1920
+2 PLAC Inchintotane, Newmarket, Co. Cork
+1 DEAT
+2 DATE 5 MAY 2000
+1 NOTE "Sean, 5, son" in the 1926 census at Inchantotane — the seventh of eight children then at home: Humphrey, Mollie, Patrick, Norah, William, Bridie, Sean and Thomas
+1 NOTE Born June 1920 at Inchantotane, Newmarket, Co. Cork, to Jack (Patsy) Shine and Hannah McCarthy — the obituary says 12 June; the civil birth index (Kanturk district, mother McCarthy) says 14 June
+1 NOTE Came to Oregon in 1948 — to the Guano Valley, then Warner Valley; took over his uncle Jack McCarthy's ranch at Adel and ranched for over 40 years
+1 NOTE Married Laura Verling at Lakeview, 15 February 1958
+1 NOTE Adel School Board, Knights of Columbus, St Richard's Catholic Church
+1 NOTE Died at home in Adel, Friday 5 May 2000, aged 79; buried Adel Cemetery
+1 SOUR
+2 TITL 1926 census, Inchatotane [sic], Clonfert East DED, Co. Cork — John S. Shine 57 (head), Hannah 34, Humphrey 12, Mollie 11, Patrick 10, Norah 9, William 8, Bridie 6 (birthplace given as Carlow), Sean 5, Thomas 4; James Shine 55, single. Ages 
+2 NOTE https://nationalarchives.ie/collections/search-the-1926-census/search-results/?surname=Shine&county=Cork&townland=Inchatotane
+1 SOUR
+2 TITL Find a Grave memorial 38320411, John “Sean” Shine (1920–2000), Adel Cemetery — with his Lake County Examiner obituary
+2 NOTE https://www.findagrave.com/memorial/38320411/john-_sean_-shine
+1 SOUR
+2 TITL Civil birth index, John Shine, 14 June 1920, Kanturk district, mother's surname McCarthy (image not online — later registration)
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cibinf-1773540
+1 FAMC @F30@
+1 FAMS @F39@
+0 @I87@ INDI
+1 NAME Laura /Verling/
+1 SEX F
+1 BIRT
+2 DATE 1927
+2 PLAC Lakeview, Oregon
+1 DEAT
+2 DATE 2015
+1 NOTE Born 1927 at Lakeview, Lake County, Oregon — probably named for her father's sister Laura A. Verling, who was at home in Newmarket in 1911
+1 NOTE Her father died of tick fever when she was two; her mother remarried Patrick Fitzgerald in 1937
+1 NOTE Married John (Seán) Shine at Lakeview, 15 February 1958; children George, John, Mary and Julie
+1 NOTE Died 2015 at Lakeview; buried Sunset Park Cemetery, Lakeview
+1 NOTE Siblings Francis Patrick (1921–1983), Mary J (1922–1927), Morgan Joseph (1923–2015), Julia Frances Fitzgerald (1926–2017) and William J 'Bill' (1929–1999)
+1 SOUR
+2 TITL Find a Grave memorial 254297273, Laura Verling Shine (1927–2015), Sunset Park Cemetery, Lakeview
+2 NOTE https://www.findagrave.com/memorial/254297273/laura-shine
+1 FAMC @F31@
+1 FAMS @F39@
+0 @I88@ INDI
+1 NAME John P. /Shine/
+1 SEX M
+1 BIRT
+2 DATE ABT 1880
+2 PLAC Rock Chapel, then Inchantotane, Newmarket, Co. Cork
+1 NOTE Head of the household at Inchantotane in the 1926 census ("John S. Shine"), with Hannah and eight children aged 4 to 12, and his unmarried brother James, 55, living with them
+1 NOTE Named as John's father in his 2000 obituary
+1 NOTE 'Jack Patsy' is the Duhallow way of saying Jack, son of Patsy — which points to Patrick Shine of Inchantotane, whose household is in the 1901 and 1911 census
+1 NOTE Married Johanna (Hannah) McCarthy at Rock Chapel church on 29 April 1913 — aged 33, bachelor, farmer, of Rock Chapel; his father is given as Patrick Shine, farmer; witnesses Cornelius Shine and Hannah McCarthy; he signed John P. Shine
+1 NOTE Not at home in Inchantotane in 1901 or 1911; may have been working away or in America before returning
+1 SOUR
+2 TITL 1926 census, Inchatotane [sic], Clonfert East DED, Co. Cork — John S. Shine 57 (head), Hannah 34, Humphrey 12, Mollie 11, Patrick 10, Norah 9, William 8, Bridie 6 (birthplace given as Carlow), Sean 5, Thomas 4; James Shine 55, single. Ages 
+2 NOTE https://nationalarchives.ie/collections/search-the-1926-census/search-results/?surname=Shine&county=Cork&townland=Inchatotane
+1 SOUR
+2 TITL Find a Grave memorial 38320411, John “Sean” Shine (1920–2000), Adel Cemetery — with his Lake County Examiner obituary
+2 NOTE https://www.findagrave.com/memorial/38320411/john-_sean_-shine
+1 SOUR
+2 TITL Civil marriage, John P. Shine (33, farmer, Rock Chapel; father Patrick Shine, farmer) and Johanna McCarthy (21, farmer's daughter, Meelin; father William McCarthy, farmer), Rock Chapel RC church, 29 Apr 1913 (Kanturk district, Newmarket reg
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-1746081
+1 SOUR
+2 TITL 1901 census, Inchantotane, Clonfert East DED, Co. Cork — Shine households (house 8: Patrick 74, Margaret 64, James 29, Patrick 21; house 13: Humphrey 50, Hannah 46)
+2 NOTE https://www.census.nationalarchives.ie/pages/1901/Cork/Clonfert_East/Inchantotane/
+1 SOUR
+2 TITL 1911 census, Inchantotane, Clonfert East DED — house 8: Patrick Shine 83, Margaret 73 (married 52 years, 12 children, 10 living), James 39; house 11: Humphrey 60, Hanna 60
+2 NOTE https://www.census.nationalarchives.ie/pages/1911/Cork/Clonfert_East/Inchantotane/
+1 FAMS @F30@
+1 FAMC @F32@
+0 @I89@ INDI
+1 NAME William /McCarthy/
+1 SEX M
+1 BIRT
+2 DATE ABT 1855
+2 PLAC Meelin, Newmarket, Co. Cork
+1 NOTE Birth year is an estimate, not from a record
+1 NOTE Farmer at Meelin; named as Johanna McCarthy's father on her 1913 marriage record
+1 NOTE His son Jack McCarthy had the ranch at Adel, Oregon that John (Seán) Shine later took over — so the McCarthys were in Oregon before the Shines
+1 SOUR
+2 TITL Civil marriage, John P. Shine (33, farmer, Rock Chapel; father Patrick Shine, farmer) and Johanna McCarthy (21, farmer's daughter, Meelin; father William McCarthy, farmer), Rock Chapel RC church, 29 Apr 1913 (Kanturk district, Newmarket reg
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cima-1746081
+1 SOUR
+2 TITL Find a Grave memorial 38320411, John “Sean” Shine (1920–2000), Adel Cemetery — with his Lake County Examiner obituary
+2 NOTE https://www.findagrave.com/memorial/38320411/john-_sean_-shine
+1 FAMS @F34@
+0 @I90@ INDI
+1 NAME Patrick /Shine/
+1 SEX M
+1 BIRT
+2 DATE ABT 1827
+2 PLAC Inchantotane, Newmarket, Co. Cork
+1 DEAT
+2 DATE 1916
+1 NOTE Agricultural labourer at Inchantotane; aged 74 in 1901 and 83 in 1911; spoke Irish and English; could not read
+1 NOTE Married Margaret about 1859 — 52 years married in 1911, 12 children born, 10 living
+1 NOTE Sons James (b. c.1872) and Patrick (b. c.1880) at home in 1901; James still with them in 1911
+1 NOTE A Patrick Shine and a James Shine held land at Inchantotane in Griffith's Valuation (c.1852) — the same family a generation earlier
+1 NOTE A Patrick Shine, married, retired farmer, died on 25 February 1916 in the Newmarket registrar's district aged 78, his daughter-in-law Katherine present — probably him, though the register makes him ten years younger than the census did
+1 SOUR
+2 TITL 1901 census, Inchantotane, Clonfert East DED, Co. Cork — Shine households (house 8: Patrick 74, Margaret 64, James 29, Patrick 21; house 13: Humphrey 50, Hannah 46)
+2 NOTE https://www.census.nationalarchives.ie/pages/1901/Cork/Clonfert_East/Inchantotane/
+1 SOUR
+2 TITL 1911 census, Inchantotane, Clonfert East DED — house 8: Patrick Shine 83, Margaret 73 (married 52 years, 12 children, 10 living), James 39; house 11: Humphrey 60, Hanna 60
+2 NOTE https://www.census.nationalarchives.ie/pages/1911/Cork/Clonfert_East/Inchantotane/
+1 SOUR
+2 TITL Griffith's Valuation, parish of Clonfert, Co. Cork (c.1852): James Shine (two holdings) and Patrick Shine at Inchantotane
+2 NOTE https://www.askaboutireland.ie/griffith-valuation/index.xml?action=doNameSearch&familyname=Shine&countyname=Cork&parishname=Clonfert
+1 SOUR
+2 TITL Civil death, Patrick Shine, married, retired farmer, aged 78, 25 Feb 1916, Newmarket registrar's district (entry 258); informant Katherine Shine, daughter-in-law, present at death
+2 NOTE https://www.irishgenealogy.ie/view?record_id=cide-5491599
+1 FAMS @F32@
+1 FAMC @F33@
+0 @I91@ INDI
+1 NAME Margaret /Shine/
+1 SEX F
+1 BIRT
+2 DATE ABT 1837
+2 PLAC Inchantotane, Newmarket, Co. Cork
+1 DEAT
+2 DATE 1911
+1 NOTE Aged 64 in 1901 (housekeeper, could read and write) and 73 in 1911; Irish and English
+1 NOTE Mother of 12 children, 10 living in 1911
+1 SOUR
+2 TITL 1901 census, Inchantotane, Clonfert East DED, Co. Cork — Shine households (house 8: Patrick 74, Margaret 64, James 29, Patrick 21; house 13: Humphrey 50, Hannah 46)
+2 NOTE https://www.census.nationalarchives.ie/pages/1901/Cork/Clonfert_East/Inchantotane/
+1 SOUR
+2 TITL 1911 census, Inchantotane, Clonfert East DED — house 8: Patrick Shine 83, Margaret 73 (married 52 years, 12 children, 10 living), James 39; house 11: Humphrey 60, Hanna 60
+2 NOTE https://www.census.nationalarchives.ie/pages/1911/Cork/Clonfert_East/Inchantotane/
+1 FAMS @F32@
+0 @I92@ INDI
+1 NAME James /Shine/
+1 SEX M
+1 BIRT
+2 DATE ABT 1871
+2 PLAC Inchantotane, Newmarket, Co. Cork
+1 NOTE At home with his parents in 1901 (aged 29) and 1911 (39); still at Inchantotane, unmarried, aged 55, in his brother Jack's household in 1926
+1 SOUR
+2 TITL 1901 census, Inchantotane, Clonfert East DED, Co. Cork — Shine households (house 8: Patrick 74, Margaret 64, James 29, Patrick 21; house 13: Humphrey 50, Hannah 46)
+2 NOTE https://www.census.nationalarchives.ie/pages/1901/Cork/Clonfert_East/Inchantotane/
+1 SOUR
+2 TITL 1911 census, Inchantotane, Clonfert East DED — house 8: Patrick Shine 83, Margaret 73 (married 52 years, 12 children, 10 living), James 39; house 11: Humphrey 60, Hanna 60
+2 NOTE https://www.census.nationalarchives.ie/pages/1911/Cork/Clonfert_East/Inchantotane/
+1 SOUR
+2 TITL 1926 census, Inchatotane [sic], Clonfert East DED, Co. Cork — John S. Shine 57 (head), Hannah 34, Humphrey 12, Mollie 11, Patrick 10, Norah 9, William 8, Bridie 6 (birthplace given as Carlow), Sean 5, Thomas 4; James Shine 55, single. Ages 
+2 NOTE https://nationalarchives.ie/collections/search-the-1926-census/search-results/?surname=Shine&county=Cork&townland=Inchatotane
+1 FAMC @F32@
+0 @I93@ INDI
+1 NAME James /Shine/
+1 SEX M
+1 BIRT
+2 DATE ABT 1800
+2 PLAC Inchantotane, Newmarket, Co. Cork
+1 NOTE Birth year is an estimate, worked back from the children's ages (Patrick b. c.1827; holding land in 1852), not from a record
+1 NOTE Held two parcels at Inchantotane in Griffith's Valuation, c.1852, alongside Patrick Shine
+1 NOTE Probably the father (or brother) of Patrick Shine b. c.1827 — the Shines have been on this townland since before the Famine
+1 SOUR
+2 TITL Griffith's Valuation, parish of Clonfert, Co. Cork (c.1852): James Shine (two holdings) and Patrick Shine at Inchantotane
+2 NOTE https://www.askaboutireland.ie/griffith-valuation/index.xml?action=doNameSearch&familyname=Shine&countyname=Cork&parishname=Clonfert
+1 FAMS @F33@
+0 @I94@ INDI
+1 NAME Hannah /McCarthy/
+1 SEX F
+1 BIRT
+2 DATE ABT 1892
+2 PLAC Meelin, Newmarket, Co. Cork
+1 NOTE Aged 34 in the 1926 census at Inchantotane, mother of eight children under 13
+1 NOTE Aged 21, farmer's daughter of Meelin, when she married John P. Shine at Rock Chapel on 29 April 1913; her father William McCarthy, farmer
+1 NOTE Named as John's mother in his 2000 obituary; the civil index of his 1920 birth gives the mother's surname as McCarthy
+1 NOTE Her brother Jack McCarthy had the ranch at Adel that John took over
+1 SOUR
+2 TITL 1926 census, Inchatotane [sic], Clonfert East DED, Co. Cork — John S. Shine 57 (head), Hannah 34, Humphrey 12, Mollie 11, Patrick 10, Norah 9, William 8, Bridie 6 (birthplace given as Carlow), Sean 5, Thomas 4; James Shine 55, single. Ages 
+2 NOTE https://nationalarchives.ie/collections/search-the-1926-census/search-results/?surname=Shine&county=Cork&townland=Inchatotane
+1 SOUR
+2 TITL Find a Grave memorial 38320411, John “Sean” Shine (1920–2000), Adel Cemetery — with his Lake County Examiner obituary
+2 NOTE https://www.findagrave.com/memorial/38320411/john-_sean_-shine
+1 FAMS @F30@
+1 FAMC @F34@
+0 @I95@ INDI
+1 NAME Dr Bartholomew /Verling/
+1 SEX M
+1 BIRT
+2 DATE 1797
+2 PLAC Heathfield Towers, Youghal
+1 DEAT
+2 DATE 1893
+1 NOTE Naval surgeon; lived to 96
+1 NOTE Married first Mary Walsh of Youghal (d. 1844, aged 30) — children Bartholomew and Catherine died young; Mary married Francis Power of Roskeen, near Mallow
+1 NOTE Married second Sabina, daughter of Walter Hervey Kavanagh of Ballyhale, Co. Kilkenny — children Walter Kavanagh Verling MD and Arabella, who died young
+1 NOTE In the 1870s landowners' return he held 883 acres in Co. Limerick and 110 in Co. Cork from Springfield Lodge (Oxclose), Newmarket
+1 NOTE Nephew of John Roche of Aghada through his mother; of the Verlings of the Cove of Cork (Cobh), the family of Napoleon's St Helena physician James Roche Verling — the exact kinship is not yet established
+1 NOTE Family tomb at North Abbey, Gneeves, near Newmarket
+1 SOUR
+2 TITL 'Dr Bartholomew Verling 1797–1893', Forgotten Victorians (compiled from Landed Estates records, the 1870s landowners return and the family tomb at North Abbey, Gneeves) — a secondary source; primary records still to be pulled
+2 NOTE https://forgottenvictorians.com/dr-bartholomew-verling-1797-1893-2
+1 FAMC @F35@
+1 FAMS @F37@
+0 @I96@ INDI
+1 NAME Sabina /Kavanagh/
+1 SEX F
+1 BIRT
+2 DATE ABT 1820
+2 PLAC Ballyhale, Co. Kilkenny
+1 NOTE Birth year is an estimate, worked back from her son Walter's birth about 1850, not from a record
+1 NOTE Daughter of Walter Hervey Kavanagh of Ballyhale, Co. Kilkenny (d. 1853); the published pedigree traces her line to Morgan Kavanagh of Ballyhale and Castle Morres and Lady Frances Butler
+1 NOTE Her son carried both names: Walter Kavanagh Verling
+1 SOUR
+2 TITL 'Dr Bartholomew Verling 1797–1893', Forgotten Victorians (compiled from Landed Estates records, the 1870s landowners return and the family tomb at North Abbey, Gneeves) — a secondary source; primary records still to be pulled
+2 NOTE https://forgottenvictorians.com/dr-bartholomew-verling-1797-1893-2
+1 FAMC @F36@
+1 FAMS @F37@
+0 @I97@ INDI
+1 NAME Edward /Verling/
+1 SEX M
+1 BIRT
+2 DATE ABT 1765
+2 PLAC Co. Cork
+1 NOTE Birth year is an estimate, worked back from his son Bartholomew's birth in 1797, not from a record
+1 NOTE Named as Dr Bartholomew Verling's father in the published pedigree
+1 SOUR
+2 TITL 'Dr Bartholomew Verling 1797–1893', Forgotten Victorians (compiled from Landed Estates records, the 1870s landowners return and the family tomb at North Abbey, Gneeves) — a secondary source; primary records still to be pulled
+2 NOTE https://forgottenvictorians.com/dr-bartholomew-verling-1797-1893-2
+1 FAMS @F35@
+0 @I98@ INDI
+1 NAME Anne /Ronayne/
+1 SEX F
+1 BIRT
+2 DATE ABT 1770
+2 PLAC Co. Cork
+1 NOTE Birth year is an estimate, not from a record
+1 NOTE Named as Dr Bartholomew Verling's mother; sister of John Roche of Aghada's wife or a Roche by marriage — the pedigree calls Bartholomew John Roche's nephew through her
+1 SOUR
+2 TITL 'Dr Bartholomew Verling 1797–1893', Forgotten Victorians (compiled from Landed Estates records, the 1870s landowners return and the family tomb at North Abbey, Gneeves) — a secondary source; primary records still to be pulled
+2 NOTE https://forgottenvictorians.com/dr-bartholomew-verling-1797-1893-2
+1 FAMS @F35@
+0 @I99@ INDI
+1 NAME Walter Hervey /Kavanagh/
+1 SEX M
+1 BIRT
+2 DATE ABT 1790
+2 PLAC Ballyhale, Co. Kilkenny
+1 DEAT
+2 DATE 1853
+1 NOTE Birth year is an estimate, not from a record
+1 NOTE Of Ballyhale, Co. Kilkenny; died 1853 according to the Verling pedigree
+1 SOUR
+2 TITL 'Dr Bartholomew Verling 1797–1893', Forgotten Victorians (compiled from Landed Estates records, the 1870s landowners return and the family tomb at North Abbey, Gneeves) — a secondary source; primary records still to be pulled
+2 NOTE https://forgottenvictorians.com/dr-bartholomew-verling-1797-1893-2
+1 FAMS @F36@
+0 @I100@ INDI
+1 NAME Dr Walter Kavanagh /Verling/
+1 SEX M
+1 BIRT
+2 DATE ABT 1850
+2 PLAC Oxclose (Springfield Lodge), Garraunawarrig Upper, Newmarket, Co. Cork
+1 NOTE Son of Dr Bartholomew Verling, naval surgeon, and Sabina Kavanagh of Ballyhale, Co. Kilkenny; the family seat was Oxclose, also called Springfield Lodge, outside Newmarket
+1 NOTE Married Mary Malpas, born in England — the published pedigree says nine sons and a daughter; the 1911 census, which the couple filled in themselves, says nineteen children born
+1 NOTE Physician and surgeon in Newmarket, Co. Cork — 'the family was prominent there'; born Co. Cork about 1850
+1 NOTE Married about 1874; by 1911 the couple had had 19 children, 15 living — the 1929 obituary says 21
+1 NOTE Children at home in 1901 and 1911: Isabella/Anabella (b. c.1881), Morgan (c.1885), Laura A. (c.1886), St John (c.1892), Doreen (c.1895), Thomas (c.1897), Eva K. (c.1899); sons Francis, Walter K., Tom and Morgan went to Oregon, William to Ca
+1 NOTE Still alive, with his wife, when Francis died in 1929 according to the obituary ('his mother is still living at the family home')
+1 SOUR
+2 TITL 1901 census, Garraunawarrig Upper, Newmarket DED, Co. Cork — house 9: Walter K. Verling 51, physician and surgeon; Mary 47 (born England, Protestant Episcopalian); Isabella 20, Morgan 16, St John 9, Doreen 6, Thomas 4, Eva K. 2
+2 NOTE https://www.census.nationalarchives.ie/pages/1901/Cork/Newmarket/Garraunawarrig_Upper/
+1 SOUR
+2 TITL 1911 census, Garraunawarrig Upper, Newmarket, Co. Cork — house 1: Walter Kavanagh Verling 61, physician and surgeon, married 37 years, 19 children born, 15 living; Mary 57 (England, Church of Ireland); Anabella 30, Laura A. 25, Thomas 14, E
+2 NOTE https://www.census.nationalarchives.ie/pages/1911/Cork/Newmarket/Garraunawarrig_Upper/
+1 SOUR
+2 TITL Find a Grave memorial 38301531, Francis Kavanaugh Verling (1881–1929), Sunset Park Cemetery, Lakeview — with his 1929 Lake County Examiner obituary
+2 NOTE https://www.findagrave.com/memorial/38301531/francis_kavanaugh-verling
+1 FAMC @F37@
+1 FAMS @F38@
+0 @I101@ INDI
+1 NAME Mary /Malpas/
+1 SEX F
+1 BIRT
+2 DATE ABT 1854
+2 PLAC England
+1 NOTE Daughter of a Mr Malpas, according to the Verling pedigree; born in England about 1854; Church of Ireland, while her husband and children were Catholic
+1 NOTE Mother of 19 children, 15 of them living in 1911, after 37 years of marriage
+1 SOUR
+2 TITL 1901 census, Garraunawarrig Upper, Newmarket DED, Co. Cork — house 9: Walter K. Verling 51, physician and surgeon; Mary 47 (born England, Protestant Episcopalian); Isabella 20, Morgan 16, St John 9, Doreen 6, Thomas 4, Eva K. 2
+2 NOTE https://www.census.nationalarchives.ie/pages/1901/Cork/Newmarket/Garraunawarrig_Upper/
+1 SOUR
+2 TITL 1911 census, Garraunawarrig Upper, Newmarket, Co. Cork — house 1: Walter Kavanagh Verling 61, physician and surgeon, married 37 years, 19 children born, 15 living; Mary 57 (England, Church of Ireland); Anabella 30, Laura A. 25, Thomas 14, E
+2 NOTE https://www.census.nationalarchives.ie/pages/1911/Cork/Newmarket/Garraunawarrig_Upper/
+1 FAMS @F38@
+0 @I102@ INDI
+1 NAME Francis Kavanaugh /Verling/
+1 SEX M
+1 BIRT
+2 DATE 3 AUG 1881
+2 PLAC Newmarket, Co. Cork
+1 DEAT
+2 DATE 19 APR 1929
+1 NOTE Born in Newmarket, Co. Cork, 3 August 1881 — the same town the Shines came from, and the same birthday as Shane Galligan, exactly a century apart
+1 NOTE Son of the town doctor, Walter Kavanagh Verling, and one of a family of nineteen or more children (the obituary says 21; the 1911 census says 19 born, 15 living)
+1 NOTE Came to Lake County, Oregon, at about 19 — around 1900; lived a few years in San Francisco, where he married Mary O'Keefe, then ranched at Drews Gap west of Lakeview
+1 NOTE Brothers Morgan, W. K. and Tom Verling also ranched in Lake County; William kept a drug store in Alturas, California; George went to South America; Arthur and Algie stayed in Ireland
+1 NOTE Died at Lakeview hospital of tick fever and lung complications, 19 April 1929, aged 47 — his youngest son Bill had been born there the Friday before. Buried Sunset Park Cemetery
+1 SOUR
+2 TITL Find a Grave memorial 38301531, Francis Kavanaugh Verling (1881–1929), Sunset Park Cemetery, Lakeview — with his 1929 Lake County Examiner obituary
+2 NOTE https://www.findagrave.com/memorial/38301531/francis_kavanaugh-verling
+1 SOUR
+2 TITL Find a Grave memorial 254297273, Laura Verling Shine (1927–2015), Sunset Park Cemetery, Lakeview
+2 NOTE https://www.findagrave.com/memorial/254297273/laura-shine
+1 SOUR
+2 TITL 1911 census, Garraunawarrig Upper, Newmarket, Co. Cork — house 1: Walter Kavanagh Verling 61, physician and surgeon, married 37 years, 19 children born, 15 living; Mary 57 (England, Church of Ireland); Anabella 30, Laura A. 25, Thomas 14, E
+2 NOTE https://www.census.nationalarchives.ie/pages/1911/Cork/Newmarket/Garraunawarrig_Upper/
+1 FAMS @F31@
+1 FAMC @F38@
+0 @I103@ INDI
+1 NAME Mary Josephine /O'Keefe/
+1 SEX F
+1 BIRT
+2 DATE 15 APR 1895
+2 PLAC Co. Cork
+1 DEAT
+2 DATE 16 SEP 1971
+1 NOTE Born in Co. Cork, 15 April 1895; a brother Tim O'Keeffe and a sister Julia Doherty were still in Cork when she died
+1 NOTE Married Francis Verling in San Francisco; a Lake County resident from 1920
+1 NOTE Widowed in 1929 with seven children and a newborn; married Patrick W. Fitzgerald (1904–1994) in 1937
+1 NOTE Children: Walter, George, Francis Patrick (1921–83), Mary J. (1922–27, died aged four), Morgan Joseph (1923–2015), Julia Frances (1926–2017), Laura (1927–2015) and William 'Bill' (1929–99); 21 grandchildren by 1971
+1 NOTE Requiem Mass at St Patrick's, Lakeview; buried Sunset Park Cemetery
+1 SOUR
+2 TITL Find a Grave memorial 37988122, Mary Josephine O'Keefe Fitzgerald (1895–1971), Sunset Park Cemetery, Lakeview — with her 1971 obituary
+2 NOTE https://www.findagrave.com/memorial/37988122/mary_josephine-fitzgerald
+1 SOUR
+2 TITL Find a Grave memorial 254297273, Laura Verling Shine (1927–2015), Sunset Park Cemetery, Lakeview
+2 NOTE https://www.findagrave.com/memorial/254297273/laura-shine
+1 FAMS @F31@
+0 @I104@ INDI
+1 NAME John /Shine/
+1 SEX M
+1 BIRT
+2 PLAC Auburn, Washington
+1 NOTE Living — details held by the family
+1 NOTE Son of John (Seán) Shine and Laura Verling; married to Teresa
+1 FAMS @F21@
+1 FAMC @F39@
+0 @I105@ INDI
+1 NAME Teresa /Shine/
+1 SEX F
+1 BIRT
+2 PLAC Vernonia, Oregon
+1 NOTE Living — details held by the family
+1 NOTE Daughter of Howard Hopkins and Velma Klein; raised in Vernonia, Oregon
+1 FAMS @F21@
+1 FAMC @F40@
+0 @I106@ INDI
+1 NAME Howard /Hopkins/
+1 SEX M
+1 BIRT
+2 DATE ABT 1935
+2 PLAC Oakridge, Oregon (possibly); Vernonia, Oregon
+1 DEAT
+2 DATE 2020
+1 NOTE Birth year is an estimate, worked back from the children's ages (Teresa's generation), not from a record
+1 NOTE May have grown up in Oakridge, Oregon; raised his family in Vernonia, Oregon
+1 NOTE Died 2020
+1 FAMS @F40@
+0 @I107@ INDI
+1 NAME Velma /Hopkins/
+1 SEX F
+1 BIRT
+2 PLAC Vancouver, Washington
+1 NOTE Living — details held by the family
+1 NOTE May have grown up in Oakridge, Oregon; raised her family in Vernonia, Oregon
+1 NOTE Lives in Vancouver, Washington
+1 NOTE Her mother was called Alice
+1 FAMS @F40@
+1 FAMC @F41@
+0 @I108@ INDI
+1 NAME Alice //
+1 SEX F
+1 BIRT
+2 DATE ABT 1910
+1 NOTE Birth year is an estimate, worked back from the children's ages (Velma's generation), not from a record
+1 NOTE Known to the family only by her first name so far
+1 FAMS @F41@
+0 @I109@ INDI
+1 NAME Bridget /Galligan/
+1 SEX F
+1 NOTE Living — details held by the family
+1 FAMC @F42@
+0 @I110@ INDI
+1 NAME Laura /Galligan/
+1 SEX F
+1 NOTE Living — details held by the family
+1 FAMC @F42@
+0 @F1@ FAM
+1 HUSB @I1@
+1 CHIL @I3@
+0 @F2@ FAM
+1 HUSB @I2@
+1 CHIL @I4@
+0 @F3@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I5@
+1 CHIL @I7@
+0 @F4@ FAM
+1 HUSB @I6@
+1 CHIL @I8@
+0 @F5@ FAM
+1 HUSB @I7@
+1 WIFE @I8@
+1 CHIL @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+1 CHIL @I13@
+1 CHIL @I14@
+0 @F6@ FAM
+1 HUSB @I9@
+1 CHIL @I15@
+0 @F7@ FAM
+1 HUSB @I20@
+1 CHIL @I18@
+0 @F8@ FAM
+1 HUSB @I21@
+1 CHIL @I19@
+0 @F9@ FAM
+1 HUSB @I17@
+1 WIFE @I16@
+1 CHIL @I22@
+0 @F10@ FAM
+1 HUSB @I18@
+1 WIFE @I19@
+1 CHIL @I23@
+0 @F11@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I24@
+1 CHIL @I25@
+1 CHIL @I26@
+0 @F12@ FAM
+1 HUSB @I31@
+1 CHIL @I29@
+0 @F13@ FAM
+1 HUSB @I32@
+1 CHIL @I30@
+0 @F14@ FAM
+1 HUSB @I27@
+1 WIFE @I28@
+1 CHIL @I33@
+0 @F15@ FAM
+1 HUSB @I29@
+1 WIFE @I30@
+1 CHIL @I34@
+0 @F16@ FAM
+1 HUSB @I33@
+1 WIFE @I34@
+1 CHIL @I35@
+0 @F17@ FAM
+1 HUSB @I14@
+1 WIFE @I15@
+1 CHIL @I36@
+1 CHIL @I38@
+1 CHIL @I55@
+0 @F18@ FAM
+1 HUSB @I26@
+1 WIFE @I35@
+1 CHIL @I37@
+1 CHIL @I39@
+1 CHIL @I58@
+1 CHIL @I64@
+0 @F19@ FAM
+1 HUSB @I38@
+1 WIFE @I39@
+1 CHIL @I40@
+1 CHIL @I41@
+1 CHIL @I54@
+0 @F20@ FAM
+1 HUSB @I56@
+1 WIFE @I55@
+1 CHIL @I42@
+1 CHIL @I57@
+0 @F21@ FAM
+1 HUSB @I104@
+1 WIFE @I105@
+1 CHIL @I43@
+1 CHIL @I47@
+1 CHIL @I51@
+1 CHIL @I78@
+0 @F22@ FAM
+1 HUSB @I44@
+1 WIFE @I43@
+1 CHIL @I45@
+1 CHIL @I46@
+0 @F23@ FAM
+1 HUSB @I48@
+1 WIFE @I47@
+1 CHIL @I49@
+1 CHIL @I50@
+0 @F24@ FAM
+1 HUSB @I51@
+1 WIFE @I52@
+1 CHIL @I53@
+0 @F25@ FAM
+1 HUSB @I58@
+1 WIFE @I59@
+1 CHIL @I60@
+1 CHIL @I62@
+1 CHIL @I63@
+0 @F26@ FAM
+1 HUSB @I64@
+1 CHIL @I65@
+1 CHIL @I66@
+0 @F27@ FAM
+1 HUSB @I36@
+1 WIFE @I37@
+1 CHIL @I67@
+1 CHIL @I68@
+1 CHIL @I69@
+1 CHIL @I77@
+0 @F28@ FAM
+1 HUSB @I69@
+1 WIFE @I70@
+1 CHIL @I71@
+1 CHIL @I72@
+1 CHIL @I73@
+0 @F29@ FAM
+1 HUSB @I74@
+1 WIFE @I68@
+1 CHIL @I75@
+1 CHIL @I76@
+0 @F30@ FAM
+1 HUSB @I88@
+1 WIFE @I94@
+1 CHIL @I79@
+1 CHIL @I80@
+1 CHIL @I81@
+1 CHIL @I82@
+1 CHIL @I83@
+1 CHIL @I84@
+1 CHIL @I85@
+1 CHIL @I86@
+0 @F31@ FAM
+1 HUSB @I102@
+1 WIFE @I103@
+1 CHIL @I87@
+0 @F32@ FAM
+1 HUSB @I90@
+1 WIFE @I91@
+1 CHIL @I88@
+1 CHIL @I92@
+0 @F33@ FAM
+1 HUSB @I93@
+1 CHIL @I90@
+0 @F34@ FAM
+1 HUSB @I89@
+1 CHIL @I94@
+0 @F35@ FAM
+1 HUSB @I97@
+1 WIFE @I98@
+1 CHIL @I95@
+0 @F36@ FAM
+1 HUSB @I99@
+1 CHIL @I96@
+0 @F37@ FAM
+1 HUSB @I95@
+1 WIFE @I96@
+1 CHIL @I100@
+0 @F38@ FAM
+1 HUSB @I100@
+1 WIFE @I101@
+1 CHIL @I102@
+0 @F39@ FAM
+1 HUSB @I86@
+1 WIFE @I87@
+1 CHIL @I104@
+0 @F40@ FAM
+1 HUSB @I106@
+1 WIFE @I107@
+1 CHIL @I105@
+0 @F41@ FAM
+1 HUSB @I108@
+1 CHIL @I107@
+0 @F42@ FAM
+1 HUSB @I77@
+1 WIFE @I78@
+1 CHIL @I109@
+1 CHIL @I110@
+0 @F43@ FAM
+1 HUSB @I61@
+1 WIFE @I60@
+0 TRLR
